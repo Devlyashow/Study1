@@ -204,7 +204,9 @@ body {
 
 .card__plans li {
     margin-bottom: 10px;
-    list-style-type: decimal
+    list-style-type: decimal;
+    margin-left: 10px;
+
 }
 
 .card__plans li:last-child {
